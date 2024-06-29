@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog</title><link>https://waywq.github.io</link><description>content</description><copyright>Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://waywq.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 13:17:46 +0000</lastBuildDate><managingEditor>Blog</managingEditor><ttl>60</ttl><webMaster>Blog</webMaster><item><title>2024-6-29</title><link>https://waywq.github.io/post/2024-6-29.html</link><description># 2024-6-29&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog</title><link>https://waywq.github.io</link><description>content</description><copyright>Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://waywq.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 13:21:21 +0000</lastBuildDate><managingEditor>Blog</managingEditor><ttl>60</ttl><webMaster>Blog</webMaster><item><title>2024-6-29</title><link>https://waywq.github.io/post/2024-6-29.html</link><description># 2024-6-29&#13;
 ## 亚太天线会议&#13;
 网址：http://www.em-conf.com/apcap2024/&#13;
 论文提交地址：https://ieee-pdf-express.org/account/login?ReturnUrl=%2F&#13;
 会议编号：&#13;
-```&#13;
+```python&#13;
 62011X&#13;
 ```&#13;
 。</description><guid isPermaLink="true">https://waywq.github.io/post/2024-6-29.html</guid><pubDate>Sat, 29 Jun 2024 13:08:05 +0000</pubDate></item><item><title>开始</title><link>https://waywq.github.io/post/kai-shi.html</link><description># 第一天。</description><guid isPermaLink="true">https://waywq.github.io/post/kai-shi.html</guid><pubDate>Sat, 22 Jun 2024 01:44:46 +0000</pubDate></item></channel></rss>
